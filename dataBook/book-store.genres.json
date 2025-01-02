@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "661002d73ff31cc7d572a41c"
+  },
+  "name": "Ngôn tình",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661003033ff31cc7d572a420"
+  },
+  "name": "Trinh thám - Kinh dị",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6610036c3ff31cc7d572a423"
+  },
+  "name": "Sức khỏe - Làm đẹp",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661003973ff31cc7d572a426"
+  },
+  "name": "Truyện - Tiểu thuyết",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66124b127db9a6069958d54d"
+  },
+  "name": "Tâm Linh - Tôn Giáo",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612a9c0917e29e62d0ca87d"
+  },
+  "name": "Phát Triển Cá Nhân",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613d1bb3122421ac2271d20"
+  },
+  "name": "Giáo dục - Văn hóa & Xã hội",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624bf05c9573b1d0f06ccff"
+  },
+  "name": "Nghệ thuật sống",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624cc6ec9573b1d0f06dab0"
+  },
+  "name": "Kinh Doanh - Làm Giàu",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624d4dfc9573b1d0f06e0b7"
+  },
+  "name": "Marketing Bán Hàng",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624d627c9573b1d0f06e3c5"
+  },
+  "name": "Lịch sử",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66251b35e7ef6b741e11cbed"
+  },
+  "name": "Tâm linh phương đông",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66251c65e7ef6b741e11cf6d"
+  },
+  "name": "Chứng khoáng - Bất động sản - Đầu tư",
+  "books": [],
+  "__v": 0
+}]

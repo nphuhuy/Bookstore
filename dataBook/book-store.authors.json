@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "660e5e9515f46b8efffd4a40"
+  },
+  "name": "Nữu Nữu Mật",
+  "books": [],
+  "__v": 14
+},
+{
+  "_id": {
+    "$oid": "66112fe362f902a02569c465"
+  },
+  "name": "Tiêu Thanh Yết Tẩn Lâu",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611303f62f902a02569c471"
+  },
+  "name": "Du Nhân",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661130a062f902a02569c47d"
+  },
+  "name": "Thảo Trang",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611314d62f902a02569c489"
+  },
+  "name": "Mộng Huyễn Tư Thi",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661132fa62f902a02569c4dc"
+  },
+  "name": "Kim Trùng Lâu",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661133b862f902a02569c4e8"
+  },
+  "name": "Diên Bắc Lão Cữu",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611348c62f902a02569c577"
+  },
+  "name": "Elsie Silver",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "661135b262f902a02569c58e"
+  },
+  "name": "Triệu Hồng",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611361062f902a02569c59a"
+  },
+  "name": "Nhiều tác giả",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66124bd17db9a6069958d61a"
+  },
+  "name": "Bayard",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6612aa1f917e29e62d0ca8b2"
+  },
+  "name": "Tạ Minh Tuấn",
+  "books": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662124245b2bffe6878db804"
+  },
+  "name": "Ban biên tập Waka",
+  "books": [],
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6624b1a6c9573b1d0f06ba7c"
+  },
+  "name": "Nita Prose",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6624b4d1c9573b1d0f06bf77"
+  },
+  "name": "Ty Khưu Chơn Tín",
+  "books": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6624bf1fc9573b1d0f06cd75"
+  },
+  "name": "Ken Honda",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6624c605c9573b1d0f06d068"
+  },
+  "name": "Thích Nhất Hạnh",
+  "books": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6624cc4ec9573b1d0f06da35"
+  },
+  "name": "Earl Prevette, A.B., LL.B ",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6624cd7cc9573b1d0f06de39"
+  },
+  "name": "Edward de Bono",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6624d4d4c9573b1d0f06dfe6"
+  },
+  "name": "Tai Nguyen",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6624d55bc9573b1d0f06e1bb"
+  },
+  "name": "Trần Nhất Dương",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6624d611c9573b1d0f06e332"
+  },
+  "name": "Trần Việt Quân 9 (chủ biên)",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66251639e7ef6b741e11c8a5"
+  },
+  "name": "Đỗ Trung Kiên",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66251c11e7ef6b741e11ce14"
+  },
+  "name": "Rita Stevens",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66251ec1e7ef6b741e11d6c1"
+  },
+  "name": "Chi Nguyễn",
+  "books": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "662524aee7ef6b741e11d9be"
+  },
+  "name": "Cấn Mạnh Linh",
+  "books": [],
+  "__v": 4
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66277f305065a4e5d4d21f23"
+  },
+  "image": "https://res.cloudinary.com/dz93cdipw/image/upload/v1713864420/Book-Store/Banners/loaaofqbl27z8h1g8usw.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66277f3c5065a4e5d4d21f26"
+  },
+  "image": "https://res.cloudinary.com/dz93cdipw/image/upload/v1713864420/Book-Store/Banners/cdsc7k8rbkjltu8mde7r.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66277f435065a4e5d4d21f29"
+  },
+  "image": "https://res.cloudinary.com/dz93cdipw/image/upload/v1713864422/Book-Store/Banners/o9hyu7jejtrutbrpqlyz.webp",
+  "__v": 0
+}]
